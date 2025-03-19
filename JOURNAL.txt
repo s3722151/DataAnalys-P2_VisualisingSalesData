@@ -1,13 +1,15 @@
 Journal to keep track of progress.
 
-18/3/2024
+18/3/2025
 Cloned repository to local.
 Got the sales data from here.
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 How to visualise the data
 https://www.geeksforgeeks.org/pandas-built-in-data-visualization-ml/
 
-To do 
+19/3/2025
+Made a jupytar notebook file.
+
 - Make Juptar Notebook
 - Import packages
 - Understand what is the bets way to visualise the data
