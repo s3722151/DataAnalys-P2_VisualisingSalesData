@@ -10,8 +10,11 @@ https://www.geeksforgeeks.org/pandas-built-in-data-visualization-ml/
 19/3/2025
 Made a jupytar notebook file.
 
+20/3/2025
+
 - Make Juptar Notebook
 - Import packages
 - Understand what is the bets way to visualise the data
+ https://www.youtube.com/watch?v=o7F-tbBl_hA
 - Breakdown what is in data
 - Visualise all data 
