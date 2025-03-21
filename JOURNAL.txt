@@ -11,10 +11,22 @@ https://www.geeksforgeeks.org/pandas-built-in-data-visualization-ml/
 Made a jupytar notebook file.
 
 20/3/2025
+Understand the different ways to visualise the data
+https://www.youtube.com/watch?v=o7F-tbBl_hA.
 
-- Make Juptar Notebook
+21/3/2025
+Looked at data.
+Meanigful categories are:
+Order date: This is from 2015 - 2017 
+Ship Date : 2015 - 2019 
+Ship Mode: First Class, Same Day, Second Class, Standard Class
+Segment: Consumer, Corporate, Home Office
+Country: Umited States
+Category: Furniture, Office Supplies, Technology
+Sub-Categories: 9+
+Sales: Smallest sale is 0.444, Largest is 22638.48
+
+To Do 
 - Import packages
-- Understand what is the bets way to visualise the data
- https://www.youtube.com/watch?v=o7F-tbBl_hA
 - Breakdown what is in data
 - Visualise all data 
