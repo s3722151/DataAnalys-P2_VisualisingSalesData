@@ -15,7 +15,7 @@ Understand the different ways to visualise the data
 https://www.youtube.com/watch?v=o7F-tbBl_hA.
 
 21/3/2025
-Looked at data.
+Looked at data. This is based on looking at csv in excel using filter.
 Meanigful categories are:
 Order date: This is from 2015 - 2017 
 Ship Date : 2015 - 2019 
@@ -25,6 +25,20 @@ Country: Umited States
 Category: Furniture, Office Supplies, Technology
 Sub-Categories: 9+
 Sales: Smallest sale is 0.444, Largest is 22638.48
+
+22/3/2025
+Imported Numpy.
+Reviewing this: https://www.geeksforgeeks.org/pandas-built-in-data-visualization-ml/
+- I'm thinking instead of 1 dataframe, I make multiple per each area I need to chart 
+- Based on data, I would make dataframes for:
+- DF: To check ordering and shipping dates - Maybe see trend over time. 
+- DF: Looking at Ship Mode
+- DF: Segments 
+- DF: Per region 
+- DF: Highest Sales for Products
+- DF: Lowest Sales for Products
+Also reviewed lecture materials related to Practical Data Science (Week 1 - 4)
+
 
 To Do 
 - Import packages
