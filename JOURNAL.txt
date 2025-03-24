@@ -39,8 +39,14 @@ Reviewing this: https://www.geeksforgeeks.org/pandas-built-in-data-visualization
 - DF: Lowest Sales for Products
 Also reviewed lecture materials related to Practical Data Science (Week 1 - 4)
 
+24/3/2024
+Gonna decide to end this project by using visualising tools.
+This is how you get a scatter plot: https://www.geeksforgeeks.org/pandas-scatter-plot-dataframe-plot-scatter/
+This is how you do a bar chart: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.bar.html
+Gonna prompt DeepSeek to ask how to visualise it as I have busy with self-assessments and catching up to lecture vids.
+- From this I did the bar charts myself.I thought I had to use something trickey to obtain column value than insert it into bar chart bandas example.
+- The more colourful bar charts I had DeepSeeks help. 
+
 
 To Do 
-- Import packages
-- Breakdown what is in data
 - Visualise all data 
